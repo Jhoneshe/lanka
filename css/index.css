@@ -1,0 +1,151 @@
+.banner{
+	height: 464px;
+	background: url(../images/banner_bg_03.jpg);
+}
+.banner-top{
+    overflow: hidden;
+    padding-top: 20px;
+}
+.logo{
+    float: left;
+	width: 313px;
+	height: 62px;
+}
+.logo img{
+	display: block;
+	width: 100%;
+}
+.banner-pic{
+    padding-top: 20px;
+    width: 930px;
+    height: 332px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.banner-pic img{
+    display: block;
+    width: 100%;
+}
+.tel{
+    float: left;
+}
+.banner-top ul{
+    margin-top: 10px;
+    width: 186px;
+    height: 27px;
+    line-height: 27px;
+    background: url("../images/banner_top_03.jpg") no-repeat;
+    float: right;
+    font-size: 12px;
+    text-align: center;
+}
+.banner-top ul li{
+    float: left;
+    height: 27px;
+    width: 56px;
+}
+.banner-top ul a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #b1c4a6;
+}
+.current,.banner-top ul a:hover{
+    color: #fff !important;
+}
+.main{
+    height: 670px;
+    background: url("../images/main-bg_06.jpg");
+}
+.main .container{
+    position: relative;
+    height: 670px;
+}
+.jiaM{
+    position: absolute;
+    left: 0;
+    bottom: 44px;
+}
+.news-list{
+    padding-top: 10px;
+    font-size: 12px;
+    color: #505050;
+}
+.news-list li{
+    padding-left: 14px;
+    height: 22px;
+    line-height: 22px;
+    background: url("../images/item_03.jpg") no-repeat 6px center;
+}
+.news-list a,.news-list span{
+    display: block;
+    height: 22px;
+    line-height: 22px;
+    color: #505050;
+    float: left;
+}
+.news-list a:hover{
+    text-decoration: underline;
+}
+.news-list span{
+    float: right;
+    padding-right: 16px;
+}
+.adv{
+    width: 276px;
+    height: 64px;
+    padding-top: 40px;
+    margin-left: -4px;
+}
+.right-case{
+    width: 281px;
+    height: 268px;
+    margin-left: -4px;
+    margin-top: 2px;
+    background: url("../images/right_side_news_03.jpg");
+}
+.case-pic{
+    width: 248px;
+    height: 160px;
+    margin: 14px 0 0 12px;
+}
+.right-case p{
+    text-align: center;
+    font-size: 12px;
+    color: #505050;
+    font-weight: bold;
+}
+.main-left{
+    width: 606px;
+    padding: 11px 22px 0 0;
+}
+.welcome{
+    height: 160px;
+    position: relative;
+}
+.welcome .wel_pic2{
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 200px;
+}
+.welcome p{
+    padding-top: 64px;
+    font-size: 12px;
+    color: #505050;
+    line-height: 20px;
+}
+.welcome h3{
+    position: absolute;
+    top: 36px;
+    right: 20px;
+    font-size: 14px;
+    color: #360;
+    font-family: '宋体';
+}
+.wel_pic{
+    width: 177px;
+    height: 123px;
+    padding: 10px;
+    float: left;
+}
